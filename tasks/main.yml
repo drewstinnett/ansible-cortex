@@ -4,7 +4,6 @@
   package: name={{ item }} state=present
   with_items:
     - python-pip
-    - pyeupi
     - unzip
     - git
 
