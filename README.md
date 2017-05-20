@@ -4,7 +4,7 @@
 
 ## Description
 
-Deploy an instance of a cortex analyzer.  This Ansible script deploys the code from from [CERT-BDF](https://github.com/CERT-BDF/Cortex)
+Deploy an instance of a cortex analyzer.  This Ansible script deploys the code from [CERT-BDF](https://github.com/CERT-BDF/Cortex).
 
 ## Requirements
 
