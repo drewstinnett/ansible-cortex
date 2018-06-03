@@ -4,7 +4,9 @@
 
 ## Description
 
-Deploy an instance of a cortex analyzer.  This Ansible script deploys the code from [TheHive Project](https://github.com/TheHive-Project/Cortex).
+Deploy an instance of Cortex, the free, open source observable analysis engine from TheHive Project.  This Ansible script deploys the code from [TheHive Project](https://github.com/TheHive-Project/Cortex).
+
+**Note**: this script is not compatible with Cortex 2.
 
 ## Requirements
 
