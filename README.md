@@ -8,6 +8,8 @@ Deploy an instance of Cortex, the free, open source observable analysis engine f
 
 **Note**: this script is not compatible with Cortex 2.
 
+**DEPRECATING**: Now that the folks at [TheHive Project](https://github.com/TheHive-Project/Cortex) have RPM/DEB packages, you are better off using those.  Will keep this repository up for a while in case folks need to look back at it.
+
 ## Requirements
 
 None
